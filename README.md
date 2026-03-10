@@ -37,3 +37,16 @@ By shifting from simply reporting dengue cases to **mining and validating hidden
 1.  Public health planning
 2.  Early intervention
 3.  Urban resilience
+
+## 📝 Citation
+If you use this work, please cite:
+
+```bibtex
+@inproceedings{Huang2026Dengue,
+  author    = {Huang, Liping and Xiao, Gaoxi and Ma, Stefan and Chen, Hechang and Tang, Shisong and Salim, Flora},
+  title     = {Mining Citywide Dengue Spread Patterns in Singapore Through Hotspot Dynamics from Open Web Data},
+  booktitle = {Proceedings of the ACM Web Conference 2026 (WWW '26)},
+  year      = {2026},
+  publisher = {ACM},
+  url       = {https://arxiv.org/abs/2601.12856}
+}
