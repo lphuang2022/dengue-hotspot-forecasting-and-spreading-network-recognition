@@ -27,6 +27,10 @@ Experiments conducted on data from 2013–2018 and 2020 demonstrate the model's 
 * **Baseline Performance:** Four weeks of hotspot history are sufficient to achieve an average **F-score of 0.79**.
 * **Robustness:** Even during the **COVID-19 “circuit breaker”**, when mobility patterns were severely disrupted, the model remained robust with an **F-score of 0.83**.
 * **Interpretability:** The learned transmission links align with commuting flows, highlighting the interplay between hidden epidemic spread and human mobility.
+* **Visualization: ** The comparison between commuting flows and the learned dengue spreading pattern is as following figures. Analysis details can be found in the paper.
+
+<img src="subzone-based.png" alt="Subzone-based Spreading Pattern vs Mobility Flow" width="600">
+<img src="planningarea-based.png" alt="Subzone-based Spreading Pattern vs Mobility Flow" width="600">
 
 ## 💡 Impact
 By shifting from simply reporting dengue cases to **mining and validating hidden spreading dynamics**, this work transforms open web-based case data into a predictive and explanatory resource. The proposed framework advances epidemic modeling while providing a **scalable, low-cost tool** for:
